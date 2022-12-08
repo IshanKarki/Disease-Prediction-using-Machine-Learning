@@ -15,3 +15,7 @@ After running the file this is the user interface of the program
 
 
 ![image](https://user-images.githubusercontent.com/44771554/206403768-5c578403-7429-460b-aca2-18b3636ff1c1.png)
+
+
+
+![image](https://user-images.githubusercontent.com/44771554/206404068-efe1ee01-ff19-4622-842a-a348f2d7eb2e.png)
