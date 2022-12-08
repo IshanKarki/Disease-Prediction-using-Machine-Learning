@@ -9,9 +9,9 @@ This disease prediction application made by tkinter and it can predict disease r
 6) Corona added in Database
 
 
-The program simply runs by the command python main.py 
+The program simply runs by the command python main.py, the files are in master branch.
 
-After running the file this is the user interface of the program
+After running the file this is the user interface of the program.
 
 
 ![image](https://user-images.githubusercontent.com/44771554/206403768-5c578403-7429-460b-aca2-18b3636ff1c1.png)
